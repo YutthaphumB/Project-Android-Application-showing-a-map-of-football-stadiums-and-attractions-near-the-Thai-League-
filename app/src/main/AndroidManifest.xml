@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tpl">
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the "MyLocation" functionality.
+    -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TPL">
+        <activity
+            android:name=".TpfcActivity2"
+            android:exported="true"
+            android:label="สถานที่ท่องเที่ยวใกล้สนามแพท สเตเดี้ยม"
+            android:parentActivityName=".TpfcActivity"  />
+        <activity
+            android:name=".TpfcActivity"
+            android:exported="true"
+            android:label="การท่าเรือ เอฟซี"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".SpfcActivity2"
+            android:exported="true"
+            android:label="สถานที่ท่องเที่ยวใกล้สนามกีฬากลางจังหวัดสุพรรณบุรี"
+            android:parentActivityName=".SpfcActivity" />
+        <activity
+            android:name=".SpfcActivity"
+            android:exported="true"
+            android:label="สุพรรณบุรี เอฟซี"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".SpcActivity2"
+            android:exported="true"
+            android:label="สถานที่ท่องเที่ยวใกล้สนามกีฬาการกีฬาแห่งประเทศไทย บางพลี"
+            android:parentActivityName=".SpcActivity" />
+        <activity
+            android:name=".SpcActivity"
+            android:exported="true"
+            android:label="สมุทรปราการ ซิตี้ "
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".RbmfcActivity2"
+            android:exported="true"
+            android:label="สถานที่ท่องเที่ยวใกล้สนามมิตรผล สเตเดี้ยม"
+            android:parentActivityName=".RbmfcActivity" />
+        <activity
+            android:name=".RbmfcActivity"
+            android:exported="true"
+            android:label="ราชบุรี มิตรผล เอฟซี"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".PtprchActivity2"
+            android:exported="true"
+            android:label="สถานที่ท่องเที่ยวใกล้สนาม สามอ่าว สเตเดี้ยม "
+            android:parentActivityName=".PtprchActivity" />
+        <activity
+            android:name=".PtprchActivity"
+            android:exported="true"
+            android:label="พีที ประจวบ เอฟซี"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".PolfcActivity2"
+            android:exported="true"
+            android:label="สถานที่ท่องเที่ยวใกล้สนาม บุญยะจินดา"
+            android:parentActivityName=".PolfcActivity" />
+        <activity
+            android:name=".PolfcActivity"
+            android:exported="true"
+            android:label="โปลิศ เทโร เอฟซี "
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".AboutActivity"
+            android:exported="true"
+            android:label="ขอขอบคุณ"
+            android:parentActivityName=".HomeActivity" />
+        <activity
+            android:name=".NrmfcActivity2"
+            android:exported="true"
+            android:label="สถานที่ท่องเที่ยวใกล้สนามกีฬาเฉลิมพระเกียรติ 80 พรรษา"
+            android:parentActivityName=".NrmfcActivity" />
+        <activity
+            android:name=".NrmfcActivity"
+            android:exported="true"
+            android:label="นครราชสีมา มาสด้า เอฟซี"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".NpfcActivity2"
+            android:exported="true"
+            android:label="สถานที่ท่องเที่ยวใกล้สนามพิชญ สเตเดี้ยม"
+            android:parentActivityName=".NpfcActivity" />
+        <activity
+            android:name=".NpfcActivity"
+            android:exported="true"
+            android:label="หนองบัว พิชญ เอฟซี "
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="true"
+            android:label="Thai League 1 Stadium" />
+        <activity
+            android:name=".MtutdActivity2"
+            android:exported="true"
+            android:label="สถานที่ท่องเที่ยวใกล้สนามเอสซีจี สเตเดียม"
+            android:parentActivityName=".MtutdActivity" />
+        <activity
+            android:name=".MtutdActivity"
+            android:exported="true"
+            android:label="เอสซีจี เมืองทอง ยูไนเต็ด"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".KkutdActivity2"
+            android:exported="true"
+            android:label="สถานที่ท่องเที่ยวใกล้สนามกีฬาองค์การบริหารส่วนจังหวัดขอนแก่น"
+            android:parentActivityName=".KkutdActivity" />
+        <activity
+            android:name=".KkutdActivity"
+            android:exported="true"
+            android:label="ขอนแก่น ยูไนเต็ด"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".CrutdActivity2"
+            android:exported="true"
+            android:label="สถานที่ท่องเที่ยวใกล้สถามสิงห์ สเตเดี้ยม"
+            android:parentActivityName=".CrutdActivity" />
+        <activity
+            android:name=".CrutdActivity"
+            android:exported="true"
+            android:label="สิงห์ เชียงราย ยูไนเต็ด"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".CreatorActivity"
+            android:exported="true"
+            android:label="ผู้จัดทำ"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".CmutdActivity2"
+            android:exported="true"
+            android:label="สถานที่ท่องเที่ยวใกล้สนามกีฬาสมโภชเชียงใหม่ 700 ปี"
+            android:parentActivityName=".CmutdActivity" />
+        <activity
+            android:name=".CmutdActivity"
+            android:exported="true"
+            android:label="เชียงใหม่ เอฟซี "
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ChonActivity2"
+            android:exported="true"
+            android:label="สถานที่ท่องเที่ยวใกล้สนาม ชลบุรี สเตเดียม "
+            android:parentActivityName=".ChonActivity" />
+        <activity
+            android:name=".ChonActivity"
+            android:exported="true"
+            android:label="ชลบุรี เอฟซี  "
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ButdActivity2"
+            android:exported="true"
+            android:label="สถานที่ท่องเที่ยวใกล้สนาม ทรู สเตเดียม "
+            android:parentActivityName=".ButdActivity" />
+        <activity
+            android:name=".ButdActivity"
+            android:exported="true"
+            android:label="ทรู แบงค็อก ยูไนเต็ด "
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".BrutdActivity2"
+            android:exported="true"
+            android:label="สถานที่ท่องเที่ยวใกล้สนาม ช้าง อารีน่า"
+            android:parentActivityName=".BrutdActivity" />
+        <activity
+            android:name=".BrutdActivity"
+            android:exported="true"
+            android:label="บุรีรัมย์ ยูไนเต็ด"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".BgpuActivity3"
+            android:exported="true"
+            android:label="สถานที่ท่องเที่ยวใกล้สนาม ลีโอ สเตเดียม"
+            android:parentActivityName=".BgpuActivity" />
+        <activity
+            android:name=".BgpuActivity"
+            android:exported="true"
+            android:label="บีจี ปทุม ยูไนเต็ด"
+            android:parentActivityName=".MainActivity" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="เลือกทีม"
+            android:parentActivityName=".HomeActivity" />
+    </application>
+
+</manifest>

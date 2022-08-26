@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/drawable/roundstyle.xml" value="0.22083333333333333" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_about.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_bgpu.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_bgpu2.xml" value="0.23513513513513515" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_bgpu3.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_bgpu_stadium.xml" value="0.23777173913043478" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_brutd.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_brutd2.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_butd.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_butd2.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_chon.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_chon2.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_cmutd.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_cmutd2.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_creator.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_crutd.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_crutd2.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_kkutd.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_kkutd2.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_main.xml" value="0.2151639344262295" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_maps.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_mtutd.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_mtutd2.xml" value="0.3460964694181999" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_npfc.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_npfc2.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_nrmfc.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_nrmfc2.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_polfc.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_polfc2.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_ptprch.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_ptprch2.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_rbmfc.xml" value="0.23822463768115942" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_rbmfc2.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_second.xml" value="0.3463541666666667" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_spc.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_spc2.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_spfc.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_spfc2.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_splash.xml" value="0.3484375" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_table.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_tpfc.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/activity_tpfc2.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/content_main.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/fragment_bgpu_activity2.xml" value="0.3484375" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/fragment_brutd.xml" value="0.3484375" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/fragment_gallery.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/fragment_home.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/layout/my_row.xml" value="0.2852512155591572" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/menu/activity_main_drawer.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/menu/main_activity2.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/menu/menu_main.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26614583333333336" />
+        <entry key="..\:/AndroidStudioProjects/ProjectTPL/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.24322916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
